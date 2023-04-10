@@ -1,5 +1,5 @@
 # Deteksi-dan-Menghitung-Mobil-dengan-OpenCV
-hayo ngapain
+
 
 Hayo ngapain........
 pake baik baik ya coding ini 
